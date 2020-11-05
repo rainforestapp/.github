@@ -1,0 +1,5 @@
+{
+    "name": "Rubocop Workflow",
+    "description": "Runs rubocop checks using rf-stylez",
+    "iconName": "rubocop"
+}
